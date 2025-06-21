@@ -91,5 +91,4 @@ All endpoints are prefixed with `/api/transactions`.
 - cors
 - nodemon (dev)
 
-## License
-ISC 
+
